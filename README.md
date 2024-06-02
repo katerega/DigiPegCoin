@@ -1,3 +1,52 @@
+CODE THEN EYE BALLS
+
+DAY1
+digital art dead market
+
+midjourny stable diffusion
+
+$69 NEXT GREATE MEME COIN top 300 ranking on coingeko
+$69, days work, engagement on twitter
+coin name, story of coin, put a twitter vote, name of character
+from midjourney for the image
+1.name
+2. character
+3. tokenomics ie pepe tokenomics,, community coins for people and cluture
+a. white paper
+b. code the tokenomics in solidity
+c. test the code
+
+DAY2
+4. get an audit done for the code ie ptimise code
+5. build website and socials website use google sites and then use chatgpt to create the website content
+
+DAY3
+6. launch the coin
+project over budget and failed on the DEX launch
+create a liquidity pool ie eth and token for people to buy token ie $100 deploy token and $80 ETH in liquidity pool and do a test buy, alunch pool $100 privent pool raking launch and test pool $500
+
+DAY4
+7.a. community involvement
+b. social media suggestions
+c. partnerships
+d. airdrops
+e. fund rising ie community donations, crowd funding, allow community to start own pools,discord, telegram,crowd fund, new name, coin ticker,  distribute basing on wth destribution
+f. education and transspparancy 
+
+DAY5
+a. google spreadsheet all the received contributions in eth and the coresponding amount of our token they have to get back
+b. ecxpenses at this point is $1000
+c. 10million $RAZ, 50 holders, +3.5ETH($6669) thank you for supporting memes and ubuntusx digital products , the experiment continues
+
+DAY6
+a.monitor your founders tokens
+keep it as decentralised as possible for people to have their own stories with it
+b. build relatoins ships
+c. build trust from a commuity you are targeting for retwittes
+d. increase liquidity by preading awareness, tutorials, use pranksy for v3 liquidity pools, open socials
+e. $1m in market cap in the first month
+f. start bids on the digital projects and get octions started
+
 # DigiPegCoin
 
 with a budget of $80 create deploy amd grow community of a hypathetical memcoin

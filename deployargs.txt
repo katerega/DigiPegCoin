@@ -1,0 +1,6 @@
+ _presaleAddress:
+_liquidityPoolAddress:
+_marketingAddress:
+_teamAddress:
+_communityRewardsAddress:
+_initialOwner:

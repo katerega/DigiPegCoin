@@ -1,6 +1,6 @@
- _presaleAddress:
-_liquidityPoolAddress:
-_marketingAddress:
-_teamAddress:
-_communityRewardsAddress:
-_initialOwner:
+ _presaleAddress: 0x833acAaC66D449aE0D51d55b4D5432FA24cb43D1
+_liquidityPoolAddress: 0x2AeBbf3d2c40FAA8D4f57C2dc2338B7A9d13E83b
+_marketingAddress: 0x8c7eb78541b247A5973090Bcb52b035996ea6757
+_teamAddress: 0x9a1c64eaB64CE3E13e49B8D50d244aEF85C1c90D
+_communityRewardsAddress:0x0d648853D8d79330E234B055351eDAB2c62fbCfA
+_initialOwner: 0xaCFBAe0b31DC302C339b5d82e62F56c3Dc268D0F

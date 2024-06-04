@@ -21,6 +21,15 @@ Cost: $20
 
 whats left today
 c. test the code and contract audit with ptimise
+deployed at BSC address 0xE27C44477945CEF39138d8bE57FEA8124F61133f
+with tokenomics at addresses 
+_presaleAddress: 0x833acAaC66D449aE0D51d55b4D5432FA24cb43D1
+_liquidityPoolAddress: 0x2AeBbf3d2c40FAA8D4f57C2dc2338B7A9d13E83b
+_marketingAddress: 0x8c7eb78541b247A5973090Bcb52b035996ea6757
+_teamAddress: 0x9a1c64eaB64CE3E13e49B8D50d244aEF85C1c90D
+_communityRewardsAddress:0x0d648853D8d79330E234B055351eDAB2c62fbCfA
+_initialOwner: 0xaCFBAe0b31DC302C339b5d82e62F56c3Dc268D0F
+
 
 d. build website and socials website use google sites and then use chatgpt to create the website content, featuring a roadmap, presale details, and how-to-buy guide
 e. social media setup ie twitter ,telegram,discord, instagram, FB

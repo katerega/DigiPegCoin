@@ -206,6 +206,21 @@ contract DigPegCoin is Context, IBEP20, Ownable {
     _totalSupply = 100000000000000000000000000;
     _balances[msg.sender] = _totalSupply;
 
+       address presaleAddress = 0x833acAaC66D449aE0D51d55b4D5432FA24cb43D1;
+     address   liquidityPoolAddress = 0x2AeBbf3d2c40FAA8D4f57C2dc2338B7A9d13E83b;
+     address   marketingAddress = 0x8c7eb78541b247A5973090Bcb52b035996ea6757;
+      address  teamAddress = 0x9a1c64eaB64CE3E13e49B8D50d244aEF85C1c90D;
+      address  communityRewardsAddress = 0x0d648853D8d79330E234B055351eDAB2c62fbCfA;
+
+        ///uint256 INITIAL_SUPPLY = 100_000_000 * (10 ** uint256(decimals())); // 100 million tokens with 18 decimals
+
+        _mint(msg.sender, _totalSupply * 5 / 100); // Owner gets 5%
+        _mint(presaleAddress, _totalSupply * 60 / 100); // 60% for presale
+        _mint(liquidityPoolAddress, _totalSupply * 20 / 100); // 20% for liquidity pool
+        _mint(marketingAddress, _totalSupply * 5 / 100); // 5% for marketing
+        _mint(teamAddress, _totalSupply * 10 / 100); // 10% for team and development
+        _mint(communityRewardsAddress, _totalSupply * 5 / 100); // 5% for community rewards
+
     emit Transfer(address(0), msg.sender, _totalSupply);
   }
 
@@ -369,4 +384,7 @@ contract DigPegCoin is Context, IBEP20, Ownable {
     _allowances[owner][spender] = amount;
     emit Approval(owner, spender, amount);
   }
+ 
+
+ 
 }

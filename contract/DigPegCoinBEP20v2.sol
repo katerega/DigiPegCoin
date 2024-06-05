@@ -201,7 +201,7 @@ contract DigPegCoin is Context, IBEP20, Ownable {
 
   constructor() public {
     _name = "DigPegCoin";
-    _symbol = "DPC";
+    _symbol = "DPUX";
     _decimals = 18;
     _totalSupply = 100000000000000000000000000;
     _balances[msg.sender] = _totalSupply;
@@ -370,4 +370,3 @@ contract DigPegCoin is Context, IBEP20, Ownable {
     emit Approval(owner, spender, amount);
   }
 }
-

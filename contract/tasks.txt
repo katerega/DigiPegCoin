@@ -1,0 +1,7 @@
+DIGPEG Token Contract address 0xF0661AEEdc8cD8E5949A764C12F29df15A77afE7   bscan
+
+0.0001 BNB ie $0.06 per 1 DPC 10m suply
+
+https://pancakeswap.finance/liquidity  create liquidity pool $40 BNB, $40 DPC 
+test buy $10
+use prexy to add liquidity
